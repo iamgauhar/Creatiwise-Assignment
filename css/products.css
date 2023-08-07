@@ -1,0 +1,20 @@
+.offer {
+    background: #cccccc;
+    text-align: center;
+    padding: 2rem;
+
+}
+
+.offer h2 {
+    font-weight: 500;
+}
+
+.offer button {
+    background: #fff;
+    border: 0;
+    padding: 12px 24px;
+    border-radius: 2rem;
+    color: #FF4C11;
+    font-weight: bold;
+    margin-top: 2rem;
+}
