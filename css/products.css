@@ -47,11 +47,7 @@
     padding: 0 .5rem;
 }
 
-.filters {
-    background: #FF4C11;
-    height: 4rem;
-    /* grid-column: 1/2; */
-}
+.filters {}
 
 
 
@@ -168,4 +164,33 @@
 i {
     /* font-size: 32px; */
     /* padding-left: 0; */
+}
+
+.category {
+    padding: 1rem;
+    border-bottom: 1px solid #cccccc;
+
+}
+
+.category>div>div {
+    display: flex;
+    align-items: center;
+    gap: .6rem;
+    margin: 6px 0;
+}
+
+.category>div>div:last-child {
+    color: #FF4C11;
+}
+
+.category h4 {
+    margin-bottom: 12px;
+}
+
+.category p {
+    font-size: 10px;
+}
+
+.category span {
+    font-size: 8px;
 }
