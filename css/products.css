@@ -194,3 +194,12 @@ i {
 .category span {
     font-size: 8px;
 }
+
+.rating i {
+    font-size: 12px;
+}
+
+.select-pr select {
+    border-radius: 2rem;
+    padding: 4px 8px;
+}
